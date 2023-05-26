@@ -1,3 +1,19 @@
+<style>
 body{
   background-color:powderblue;
 }
+table, th, td {
+  border: 1px solid white;
+  border-collapse: collapse;
+}
+th, td {
+  background-color: gray;
+}
+h1{
+    border-left-style:solid;
+    border-right-style:solid;
+    border-bottom-style:solid;
+    border-top-style:solid;
+    border-color:;
+}
+</style>
