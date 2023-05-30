@@ -15,7 +15,7 @@ body {
     }
 
     h1 {
-        text-align:center;
+        text-align: center;
         border-left-style: solid;
         border-right-style: solid;
         border-bottom-style: solid;
@@ -31,36 +31,34 @@ body {
         border: 5px solid gray;
     }
 
-    #name {
-        
-    }
+    #name {}
 
     #welcome {
-        
-        width:300px;
-        position:relative;
-        top:-300px;
+
+        width: 300px;
+        position: relative;
+        top: -300px;
     }
 
     #about {
-        width:320px;
-        position:relative;
-        top:-500px;
-        left:980px;
+        width: 320px;
+        position: relative;
+        top: -500px;
+        left: 950px;
     }
 
     #Info {
-        width:150px;
-        position:relative;
-        top:-450px;
-        left:570px;
-        text-align:center;
+        width: 150px;
+        position: relative;
+        top: -450px;
+        left: 570px;
+        text-align: center;
     }
 
     #table {
-        width:414px;
-        text-align:center;
-        position:relative;
-        top:-400px;
-        left:445px;
+        width: 414px;
+        text-align: center;
+        position: relative;
+        top: -400px;
+        left: 445px;
     }
