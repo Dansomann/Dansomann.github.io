@@ -1,4 +1,4 @@
-body {
+ body {
         background-color: powderblue;
     }
 
@@ -45,6 +45,13 @@ body {
         position: relative;
         top: -500px;
         left: 980px;
+    }
+    
+    #clubs{
+        width:90px;
+        text-align:center;
+        position:relative;
+        top:-150px;
     }
 
     #Info {
