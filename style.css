@@ -51,6 +51,13 @@
         position:relative;
         top:-150px;
     }
+    
+    #awards{
+        width:150px;
+        text-align:center;
+        position:relative;
+        top:-150px;
+    }
 
     #Info {
         width: 150px;
@@ -61,6 +68,13 @@
     }
 
     #table {
+        width: 414px;
+        text-align: center;
+        position: relative;
+        top: -400px;
+        left: 445px;
+    }
+    #schedule{
         width: 414px;
         text-align: center;
         position: relative;
