@@ -1,5 +1,5 @@
  body {
-        background-color: powderblue;
+        background-color: rgb(8, 143, 143);
     }
 
     table, th, td {
@@ -9,7 +9,7 @@
 
     th,
     td {
-        background-color: gray;
+        background-color: rgb(240, 255, 255);
     }
 
     h1 {
