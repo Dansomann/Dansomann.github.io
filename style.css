@@ -21,6 +21,15 @@ body {
         border-color: ;
     }
 
+#border{
+        text-align: center;
+        border-left-style: solid;
+        border-right-style: solid;
+        border-bottom-style: solid;
+        border-top-style: solid;
+        border-color:red ;
+    }
+
     #image {
         width: 500px;
         display: block;
