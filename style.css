@@ -90,13 +90,29 @@ body {
         left: 445px;
     }
 #bodyy{
-        background-image:url("https://www.belmont.k12.ma.us/bps/portals/1/images/home/gallery/009.jpg")
-        background-repeat:no-repeat
-        background-size:cover
+        background-color:rgb(16,125,172);
     }
     #musiq{
         text-align:center;
     }
     h1{
         text-align:center;
+    }
+    #img{
+        text-align:center;
+    }
+    p{
+        text-align:center;
+    }
+    .center{
+        display:block;
+        margin-left:auto;
+        margin-right:auto;
+        position:relative;
+        top:-125px;
+    }
+    #Piano{
+        position:relative;
+        top:-275px;
+        left:1000px;
     }
