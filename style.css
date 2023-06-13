@@ -89,8 +89,10 @@ body {
         top: -400px;
         left: 445px;
     }
-#bodyy{
+    #bodyy{
         background-color:rgb(16,125,172);
+        max-width:100%;
+        max-height:100%;
     }
     #musiq{
         text-align:center;
@@ -114,5 +116,9 @@ body {
     #Piano{
         position:relative;
         top:-275px;
-        left:1000px;
+        left:1100px;
+    }
+    .teachers{
+        position:relative;
+        top:-320px;
     }
