@@ -122,3 +122,26 @@ body {
         position:relative;
         top:-320px;
     }
+#bodyyy {
+        background-color: rgb(42, 170, 138) ;
+    }
+h1 {
+        text-align: center;
+        border-left-style: solid;
+        border-right-style: solid;
+        border-bottom-style: solid;
+        border-top-style: solid;
+    }
+#slogan{
+    text-align:center;
+}
+.fit{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%;
+}
+ table, th, td {
+        border: 1px solid white;
+        border-collapse: collapse;
+    }
